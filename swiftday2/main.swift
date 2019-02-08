@@ -10,5 +10,10 @@ import Foundation
 
 print("Hello, World!")
 
-var a:Float
+/* will never compiled
+ if (true < false
+ {
+ print("thanks")
+ }
+ */
 
